@@ -6,7 +6,7 @@ A collaborative synth project using JUCE
  - A sampler
  - All of that routed through a lowpass filter
 
-## Other long term ideas
+## Random long term ideas
  - 4 sound sources: Subtractive synth, sampler, drone sample, sequenced arp sampler or synth
  - All through low pass filter
  - Run on RaPi. Small screen for GUI
