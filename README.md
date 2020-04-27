@@ -10,4 +10,4 @@ A collaborative synth project using JUCE
  - 4 sound sources: Subtractive synth, sampler, drone sample, sequenced arp sampler or synth
  - All through low pass filter
  - Run on RaPi
- - Setup a controller for it. Novation launch control XL, mini keyboards, buttons
+ - MIDI control with Akai Professional MPK Mini mkII 
