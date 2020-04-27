@@ -9,5 +9,5 @@ A collaborative synth project using JUCE
 ## Other long term ideas
  - 4 sound sources: Subtractive synth, sampler, drone sample, sequenced arp sampler or synth
  - All through low pass filter
- - Run on RaPi
+ - Run on RaPi. Small screen for GUI
  - MIDI control with Akai Professional MPK Mini mkII 
