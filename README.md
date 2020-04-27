@@ -5,3 +5,9 @@ A collaborative synth project using JUCE
  - Some reverb
  - A sampler
  - All of that routed through a lowpass filter
+
+## Other long term ideas
+ - 4 sound sources: Subtractive synth, sampler, drone sample, sequenced arp sampler or synth
+ - All through low pass filter
+ - Run on RaPi
+ - Setup a controller for it. Novation launch control XL, mini keyboards, buttons
